@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "tsx": "^4.0.0"
+  },
+  "scripts":{
+    "dev": "tsx src/index.ts" 
+  }
+}
+
+
+
